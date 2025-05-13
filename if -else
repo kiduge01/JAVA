@@ -1,0 +1,11 @@
+public class average {
+    public static void main (String[] args){
+    int x =6; int y= 9;
+    if(x>y){
+        System.out.println("X is bigger");
+    }
+    else{
+        System.out.println("Y is bigger");
+    }
+    }
+}
