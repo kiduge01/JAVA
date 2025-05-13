@@ -1,0 +1,14 @@
+public class Title{
+public static void main (String[] args){
+    int b =7; double c= 33.5; int d =11;
+    if( b>c && b>d){
+        System.out.println(b);
+    }
+    else if(c>b && c> d) {
+        System.out.println(c);
+    }
+    else{
+        System.out.println(d);
+    }
+}
+}
