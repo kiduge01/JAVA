@@ -1,0 +1,9 @@
+public class average {
+    public static void main (String[] args){
+    int x=5;
+    int y=4;
+    int sum = x + y ;
+    float average = sum/2;
+    System.out.println(average);
+    }
+}
