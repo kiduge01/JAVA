@@ -1,0 +1,10 @@
+ public class uduvi{
+     public void Mrk(){
+         System.out.println("hello Uduvi");
+     }
+     public static void main(String[] args){
+         uduvi obj = new uduvi();
+         obj.Mrk();
+     }
+     
+ }
