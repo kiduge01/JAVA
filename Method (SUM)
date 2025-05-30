@@ -1,0 +1,10 @@
+ public class kp{
+     public int sum(int a,int b)
+     {
+         return a+b;
+     }
+     public static void main (String[] args){
+         kp obj =new kp();
+         System.out.println ("sum is: "+obj.sum(6,9));
+     }
+ }
